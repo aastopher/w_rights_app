@@ -10,3 +10,7 @@ Note: This study examines the passage of married women’s economic rights refor
 Nineteenth Amendment (1920, granting women the right to vote at the national level), so states
 that passed laws later (i.e. Florida passed a control-and-management law in 1943) should be
 treated as missing data for the purposes of data visualization.
+
+### To run localy instatiate the virtual environment then use `python3 run.py`
+
+Data Source: [codebook](./w_rights_app/application/static/SturmCodebook_2.pdf) 
