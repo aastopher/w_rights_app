@@ -11,6 +11,6 @@ Nineteenth Amendment (1920, granting women the right to vote at the national lev
 that passed laws later (i.e. Florida passed a control-and-management law in 1943) should be
 treated as missing data for the purposes of data visualization.
 
-### To run localy instatiate the virtual environment then use `python3 run.py`
+**To run localy instatiate the virtual environment then use `python3 run.py`**
 
 Data Source: [codebook](https://github.com/aastopher/w_rights_app/blob/master/application/static/SturmCodebook_2.pdf) 
