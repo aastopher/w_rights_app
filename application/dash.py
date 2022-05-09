@@ -75,13 +75,13 @@ def about_active(n, active):
 # Plot color choropleth
 @app.callback(output=Output("plot-color","figure"), inputs=[Input("law","value")]) 
 def plot_color(law):
-    fig = plot.plot_choro(None,'RdPu_r',law)
+    fig = plot.plot_choro(None,'RdPu',law)
     return fig
 
 # Plot black & white choropleth
 @app.callback(output=Output("plot-bw","figure"), inputs=[Input("law","value")]) 
 def plot_bw(law):
-    fig = plot.plot_choro(None,[[0.0, "rgb(70,70,70)"],[1.0, "rgb(255, 255, 255)"]],law)
+    fig = plot.plot_choro(None,[[0.0, "rgb(255,255,255)"],[1.0, "rgb(70, 70, 70)"]],law)
     return fig
 
 # Render desc panel
