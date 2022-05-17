@@ -15,3 +15,4 @@ treated as missing data for the purposes of data visualization.
 
 Data Info: [codebook](https://github.com/aastopher/w_rights_app/blob/master/application/static/SturmCodebook_2.pdf) <br/>
 Data Source: [data](https://github.com/aastopher/w_rights_app/blob/master/application/static/SturmData.csv) 
+Web App: [w-rights](https://w-rights.herokuapp.com/)
